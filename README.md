@@ -1,0 +1,2 @@
+# NoReasonsUpdate
+Windows11绕过要求在线更新24H2
